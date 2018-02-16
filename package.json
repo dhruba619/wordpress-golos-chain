@@ -11,8 +11,10 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "lodash": "^4.17.4",
+    "node-cron": "^1.2.1",
     "prettyjson": "^1.2.1",
-    "steem": "^0.5.3",
+    "steem": "^0.5.20",
     "wordpress-rest-api": "^0.8.0"
   }
 }
+
